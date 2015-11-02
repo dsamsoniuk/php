@@ -1,2 +1,2 @@
 # php
-Skrypty do umieszczania na stronie
+Skrypty które można zamieścić na stronie www
